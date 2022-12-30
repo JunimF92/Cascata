@@ -48,7 +48,7 @@ Como e bom aprender com o guanabara..
 
 - [x] Começar um curso com Guanabara
 - [x] Se esforçar
-- [ ] Estudar Todos os dias
+- [x] Estudar Todos os dias
 - [ ] Concluir o curso
 
 ### Exercício 3 Finalizado.
