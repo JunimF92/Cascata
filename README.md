@@ -77,3 +77,5 @@ Num | Nome | Nota
 3 | Duda | 8,2
 
 ### Exercício 5 Finalizado.
+
+
